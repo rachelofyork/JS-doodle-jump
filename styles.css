@@ -1,0 +1,8 @@
+.grid {
+    width: 550px;
+    height: 700px;
+    background-image: url("background.webp");
+    position: relative;
+    font-size: 100px;
+    text-align: center;
+}
